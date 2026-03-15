@@ -25,4 +25,7 @@ O objetivo do projeto foi praticar conceitos fundamentais do desenvolvimento web
 
 ---
 
-## 📂 Estrutura do projeto
+## 📂 Como Executar o Projeto
+
+1. Clone este repositório: https://github.com/Matheusoliveira06/convert.git   
+2. Abra o arquivo `index.html` no navegador.
